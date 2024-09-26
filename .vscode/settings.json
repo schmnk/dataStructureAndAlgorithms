@@ -1,0 +1,39 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#C4FAF8", // Pastel mint
+        "activityBar.background": "#C4FAF8",
+        "activityBar.foreground": "#5D5D83", // Muted dark lavender for contrast
+        "activityBar.inactiveForeground": "#5D5D8366", // Muted dark lavender with transparency
+        "activityBarBadge.background": "#ECD4F3", // Soft lavender for badges
+        "activityBarBadge.foreground": "#403D58", // Dark purple text
+        "commandCenter.border": "#5D5D8366",
+        "sash.hoverBorder": "#ECD4F3", // Soft lavender accent
+        "statusBar.background": "#B9F2E6", // Lighter mint
+        "statusBar.foreground": "#403D58",
+        "statusBarItem.hoverBackground": "#ECD4F3", // Soft lavender for hover
+        "statusBarItem.remoteBackground": "#B9F2E6",
+        "statusBarItem.remoteForeground": "#403D58",
+        "titleBar.activeBackground": "#B9F2E6",
+        "titleBar.activeForeground": "#403D58",
+        "titleBar.inactiveBackground": "#B9F2E680", // Lighter mint with transparency
+        "titleBar.inactiveForeground": "#403D5866" // Dark purple text with transparency
+    },
+    "peacock.color": "#C4FAF8",
+
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [100],
+        "editor.selectionHighlight": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "cSpell.words": [
+        "'Ivoire", "aichat", "Åland", "alarmid", "ARGB", "Bouvet", "Burkina", "Caicos",
+        "D", "datetime", "Faso", "firbase", "isactive", "Jamahiriya", "Kitts", "Leste",
+        "LTRB", "Marino", "mipmap", "opertaions", "repeatdays", "Rica", "sentby", "snoozeduration",
+        "snoozeenabled", "Tokelau", "updation", "Viet", "vsync", "wakeup"
+    ],
+    "cmake.configureOnOpen": false
+}
