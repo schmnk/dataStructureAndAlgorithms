@@ -1,0 +1,1 @@
+print("Welcome to Data Strucutre and Alogrithms with Python!")
